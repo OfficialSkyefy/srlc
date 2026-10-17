@@ -28,6 +28,12 @@ The Overlay page previews the overlay on a real scoreboard:
 2. **What to show**: tick elements on or off, drag them anywhere, or Ctrl-click several to move them together
 3. **Look**: presets, opacity and size
 
+## Track your sessions
+
+![The Live tab](docs/live.png)
+
+The **Live** tab shows today's record and MMR change for each mode you played, each match with its map and MMR change, and your past sessions. Click a session to see it. During a match it also shows the live score and everyone's ranks.
+
 ## Install
 
 **Option 1: one command (recommended).** Press <kbd>Win</kbd>, type `powershell`, open **Windows PowerShell**, paste this and press Enter:
@@ -57,7 +63,7 @@ Exactly calibrated for 1920×1080, 2560×1440 and 3840×2160; other widescreen r
 
 ## Updates
 
-Skyes checks this page for a newer build when it starts and shows an **Update now** bar. One click downloads it, swaps the files and reopens Skyes. You can turn this off in **Settings → Updates**.
+Skyes checks this page for a newer build when it starts and shows an **Update now** bar. One click downloads it, swaps the files and reopens Skyes. Click the version badge in the top right to check again at any time. You can turn off the automatic check in **Settings → Updates**.
 
 ## Privacy
 
