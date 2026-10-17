@@ -2,7 +2,31 @@
 
 A Rocket League overlay that shows every player's rank right on the scoreboard while you hold the scoreboard key (Tab by default): their best rank badge, division, the mode it's from, and their MMR.
 
-Windows 10/11, Steam or Epic.
+Windows 10/11, Steam or Epic. **[Download the latest release](https://github.com/OfficialSkyefy/skyes-overlay/releases/latest)**
+
+![Skyes Overlay on the Rocket League scoreboard](docs/in-game.jpg)
+
+## What you see
+
+![Close-up: name, best rank badge, division, mode and MMR for every player](docs/close-up.png)
+
+For every player, next to their scoreboard row:
+
+- **Name** and **best rank badge**: their highest rank across ranked 1v1, 2v2 and 3v3
+- **BEST**, the **division** (I–IV: the four bars fill left to right) and the **mode** that rank is from
+- **Platform** (Steam, Epic, PlayStation, Xbox, Switch) and **MMR**, with the change from the last match
+
+Ranks fill in a few seconds into the match. Ones Skyes has seen before show instantly.
+
+## Make it yours
+
+![The Overlay editor](docs/editor.jpg)
+
+The Overlay page previews the overlay on a real scoreboard:
+
+1. **Match your game**: resolution (auto-detected), Interface Size and the overlay key (keyboard or controller)
+2. **What to show**: tick elements on or off, drag them anywhere, or Ctrl-click several to move them together
+3. **Look**: presets, opacity and size
 
 ## Install
 
